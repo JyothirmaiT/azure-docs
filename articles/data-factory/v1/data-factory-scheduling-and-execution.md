@@ -37,7 +37,7 @@ A pipeline is active only between its **start** time and **end** time. It is not
 "isPaused": false
 ```
 
-For more information these properties, see [create pipelines](data-factory-create-pipelines.md) article. 
+For more information on these properties, see [create pipelines](data-factory-create-pipelines.md) article. 
 
 
 ## Specify schedule for an activity
